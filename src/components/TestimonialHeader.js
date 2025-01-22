@@ -8,7 +8,7 @@ export function TestimonialHeader() {
         Join the Community
       </h2>
       <p className="text-lg text-gray-300 max-w-2xl mx-auto leading-relaxed">
-        Discover what our community has to say about their Supabase experience.
+        Discover what our community has to say about their Coddunity experience.
       </p>
     </div>
   )

@@ -7,25 +7,25 @@ const testimonials = [
     username: "JP",
     handle: "@jperelli",
     content:
-      "This weekend I made a personal record 🏅 on the less time spent creating an application with social login / permissions, database, cdn, infinite scaling, git push to deploy and for free. Thanks to @supabase and @vercel",
+      "This weekend I made a personal record 🏅 on the less time spent creating an application with social login / permissions, database, cdn, infinite scaling, git push to deploy and for free. Thanks to @coddunity",
   },
   {
     username: "Drew Clemens",
     handle: "@drewclemcr8",
     content:
-      "Working on my next SaaS app and I want this to be my whole job because I'm just straight out vibing putting it together. @supabase and chill, if you will",
+      "Working on my next app and I want this to be my whole job because I'm just straight out vibing putting it together. @coddunity and chill, if you will",
   },
   {
     username: "Tex",
     handle: "@thatguy_tex",
     content:
-      "Working with @supabase has been one of the best dev experiences I've had lately. Incredibly easy to set up, great documentation, and so many fewer hoops to jump through than the competition. I definitely plan to use it on any and all future projects.",
+      "Working with @coddunity has been one of the best dev experiences I've had lately. Incredibly easy to set up, great documentation, and so many fewer hoops to jump through than the competition. I definitely plan to use it on any and all future projects.",
   },
   {
     username: "CodiferousCoder",
     handle: "@CodiferousCoder",
     content:
-      "@supabase Putting a ton of well-explained example API queries in a self-building documentation is just a classy move all around. I also love having GraphQL-style nested queries with traditional SQL",
+      "@coddunity Putting documentation is just a classy move all around. Really enjoying it",
   },
 ]
 
